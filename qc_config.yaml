@@ -1,0 +1,14 @@
+preprocess:
+  tau_spur_mm: 5.0
+thresholds:
+  second_comp_share_fail: 0.02
+  second_comp_share_border: 0.01
+  carina_to_zborder_border_mm: 30.0
+  min_generation_depth_fail: 3
+  per_lung_leaf_min_border: 10
+  Lmax_over_H_fail: 0.40
+  Lmax_over_H_border: 0.45
+  L_skeleton_mm_fail: 100.0
+  L_skeleton_mm_border: 120.0
+  short_spur_ratio_fail: 0.25
+  short_spur_ratio_border: 0.20
